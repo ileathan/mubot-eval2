@@ -19,3 +19,10 @@ Then add **mubot-eval2** to your `external-scripts.json`:
   "mubot-eval2"
 ]
 ```
+
+### Sample Interaction
+```
+User> eval me "Hello" + " " + World + "!"
+Mubot> Hello World!
+
+```
