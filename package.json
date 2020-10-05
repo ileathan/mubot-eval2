@@ -1,6 +1,6 @@
 {
   "name": "mubot-eval2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Redoing the old mubot-eval package.",
   "main": "index.js",
   "directories": {
