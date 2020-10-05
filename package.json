@@ -1,0 +1,27 @@
+{
+  "name": "mubot-eval2",
+  "version": "1.0.2",
+  "description": "Redoing the old mubot-eval package.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ileathan/mubot-eval2.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "mubot"
+  ],
+  "author": "leathan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ileathan/mubot-eval2/issues"
+  },
+  "homepage": "https://github.com/ileathan/mubot-eval2#readme"
+}
