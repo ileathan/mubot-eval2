@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/ileathan/mubot-eval2#readme",
   "dependencies": {
-    "eval": "^0.1.4",
+    "eval": "^0.1.4"
   }
 }
